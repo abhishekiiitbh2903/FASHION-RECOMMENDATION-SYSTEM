@@ -30,8 +30,8 @@ To run the app on your local machine:
 3. Install the required dependencies using `pip install -r requirements.txt`.
 4. Run `app.py` to generate the required pickle files and start the Flask application.
 
-## NOTE POINT
-1. I have curated mathematics involved in the model building .Kindly feel free to read it for better understanding..
+## Mathematics
+1. To understand the mathematical concepts underlying the model building process, please refer to the detailed explanation [here](link/to/mathematics_file.md).
 
 ## Author
 This project is developed by Abhishek Singh. For any queries or feedback, feel free to contact me.
