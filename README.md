@@ -31,7 +31,7 @@ To run the app on your local machine:
 4. Run `app.py` to generate the required pickle files and start the Flask application.
 
 ## Mathematics
-1. To understand the mathematical concepts underlying the model building process, please refer to the detailed explanation [here](link/to/mathematics_file.md).
+1. To understand the mathematical concepts underlying the model building process, please refer to the detailed explanation [here](https://github.com/abhishekiiitbh2903/FASHION-RECOMMENDATION-SYSTEM/blob/main/Fashion%20Recommendation%20System.pdf).
 
 ## Author
 This project is developed by Abhishek Singh. For any queries or feedback, feel free to contact me.
